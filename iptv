@@ -1,35 +1,392 @@
-#EXTINF:-1 ,ABC
-http://cdng.pubcdn.tn/iptv/ch3507?code=1701273726237058
-#EXTINF:-1 ,SHOWTIME
-http://cdng.pubcdn.tn/iptv/ch3536?code=1701273726237058
-#EXTINF:-1 ,USA Net.
-http://cdng.pubcdn.tn/iptv/ch3537?code=1701273726237058
-#EXTINF:-1 ,MLB Net.
-http://cdng.pubcdn.tn/iptv/ch3538?code=1701273726237058
-#EXTINF:-1 ,TBS HD
-http://cdng.pubcdn.tn/iptv/ch3509?code=1701273726237058
-#EXTINF:-1 ,TNT HD
-http://cdng.pubcdn.tn/iptv/ch3508?code=1701273726237058
-#EXTINF:-1 ,FOX HD
-http://cdng.pubcdn.tn/iptv/ch3520?code=1701273726237058
-#EXTINF:-1 ,AMC HD
-http://cdng.pubcdn.tn/iptv/ch3528?code=1701273726237058
-#EXTINF:-1 ,E. USA
-http://cdng.pubcdn.tn/iptv/ch3506?code=1701273726237058
-#EXTINF:-1 ,CBS HD
-http://cdng.pubcdn.tn/iptv/ch3519?code=1701273726237058
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://logo.ddnb.tn/logochanel/3503.png" group-title="USA",TLC HD
-http://cdng.pubcdn.tn/iptv/ch3503?code=1701273726237058
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://logo.ddnb.tn/logochanel/3535.png" group-title="USA",HBO
-http://cdng.pubcdn.tn/iptv/ch3535?code=1701273726237058
-#EXTINF:-1 tvg-id="" tvg-name="HBO Zone" tvg-logo="http://logo.ddnb.tn/logochanel/3534.png" group-title="USA",HBO Zone
-http://cdng.pubcdn.tn/iptv/ch3534?code=1701273726237058
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://logo.ddnb.tn/logochanel/3533.png" group-title="USA",HBO Signature
-http://cdng.pubcdn.tn/iptv/ch3533?code=1701273726237058
-#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="http://logo.ddnb.tn/logochanel/3532.png" group-title="USA",HBO Comedy
-http://cdng.pubcdn.tn/iptv/ch3532?code=1701273726237058
-#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="http://logo.ddnb.tn/logochanel/3531.png" group-title="USA",FXX
-http://cdng.pubcdn.tn/iptv/ch3531?code=1701273726237058
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://logo.ddnb.tn/logochanel/3530.png" group-title="USA",FX
-http://cdng.pubcdn.tn/iptv/ch3530?code=1701273726237058
-#EXTINF:-1 tvg-id="" tvg-name="Action Max HD" tvg-logo="http://logo.ddnb.tn/logochanel/3527.png" group-title="USA",Action Max HD
+#EXTINF:-1,AU: ESPN HD 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40905
+#EXTINF:-1,AU: ESPN HD 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40904
+#EXTINF:-1,AU: Fox SPORTS HD 501
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40903
+#EXTINF:-1,AU: Fox SPORTS HD 502
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40902
+#EXTINF:-1,AU: Fox SPORTS HD 503
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40901
+#EXTINF:-1,AU: Fox SPORTS HD 504
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40900
+#EXTINF:-1,AU: Fox SPORTS HD 505
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40899
+#EXTINF:-1,AU: Fox SPORTS HD 506
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40898
+#EXTINF:-1,AU: Fox SPORTS HD 507
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40897
+#EXTINF:-1,AU: Fox SPORTS HD News
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40896
+#EXTINF:-1,AU: Racing.com
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40895
+#EXTINF:-1,UK: Box Nation HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/12355
+#EXTINF:-1,UK: BT SPORT 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3399
+#EXTINF:-1,UK: BT SPORT 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3398
+#EXTINF:-1,UK: BT SPORT 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3397
+#EXTINF:-1,UK: BT SPORT ESPN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3396
+#EXTINF:-1,UK: BT Sport Extra 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42109
+#EXTINF:-1,UK: BT Sport Extra 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42110
+#EXTINF:-1,UK: eir Sport 2 FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5313
+#EXTINF:-1,UK: Eurosport 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42101
+#EXTINF:-1,UK: Eurosport 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42102
+#EXTINF:-1,UK: Eurosport 4k
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41411
+#EXTINF:-1,UK: LFC TV 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3551
+#EXTINF:-1,UK: RACING HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23486
+#EXTINF:-1,UK Racing TV HD 2 
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3386
+#EXTINF:-1,UK: RTE ONE HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3435
+#EXTINF:-1,UK: RTE TWO HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3436
+#EXTINF:-1,UK: Freesports
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22915
+#EXTINF:-1,UK: Sky Sports Action FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25176
+#EXTINF:-1,UK: Sky Sports Arena FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25175
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/7949
+#EXTINF:-1,UK: Sky Sports Box Office HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25161
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25174
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/7947
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41545
+#EXTINF:-1,UK: Sky Sports Football FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25172
+#EXTINF:-1,UK: Sky Sports Football HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/7951
+#EXTINF:-1,UK: Sky Sports Golf FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25171
+#EXTINF:-1,UK: Sky Sports Main Event FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25170
+#EXTINF:-1,UK: Sky Sports Mix FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25169
+#EXTINF:-1,UK: Sky Sports News FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25168
+#EXTINF:-1,UK: FrontRunner
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23497
+#EXTINF:-1,UK: At The Races
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23496
+#EXTINF:-1,UK Racing TV HD 1 
+http://nitro.ltd:25461/StevenD2020/StevFr2019/23485
+#EXTINF:-1,UK: Sky Sports Premier League FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22992
+#EXTINF:-1,US: ATG Live
+http://nitro.ltd:25461/StevenD2020/StevFr2019/38598
+#EXTINF:-1,US: Bein Sports 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15178
+#EXTINF:-1,US: Bein Sports 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15177
+#EXTINF:-1,US: Bein Sports 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/15176
+#EXTINF:-1,UK: MUTV 
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3383
+#EXTINF:-1,IN: Star Sports 2 FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42273
+#EXTINF:-1,IN: Star_Sports_1_Tamil
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42275
+#EXTINF:-1,IN: Star Sports 1 FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42276
+#EXTINF:-1,IN: Star Sports Select 2 FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42277
+#EXTINF:-1,IN: Star Sports Select 1 FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42278
+#EXTINF:-1,IN: Sony Six FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42279
+#EXTINF:-1,IN: Sony Ten 1 FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42280
+#EXTINF:-1,IN: Sony Ten 2 FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42281
+#EXTINF:-1,IN: StarSports1_Hindi
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42282
+#EXTINF:-1,US: HBO  (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/21761
+#EXTINF:-1,US: HBO  (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42548
+#EXTINF:-1,US: HBO  (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19658
+#EXTINF:-1,US: HBO 2 (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42045
+#EXTINF:-1,US: HBO 2 (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42549
+#EXTINF:-1,US: HBO Comedy (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5879
+#EXTINF:-1,US: HBO Comedy (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42550
+#EXTINF:-1,US: HBO Family (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41405
+#EXTINF:-1,US: HBO Family (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42391
+#EXTINF:-1,US: HBO Family (Backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42390
+#EXTINF:-1,US: HBO Signature (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5880
+#EXTINF:-1,US: HBO Signature (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42392
+#EXTINF:-1,US: HBO Signature (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42393
+#EXTINF:-1,US: HBO Zone (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42394
+#EXTINF:-1,US: HBO Zone (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42395
+#EXTINF:-1,US: Starz HD (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41398
+#EXTINF:-1,US: Starz (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22502
+#EXTINF:-1,US: Starz (backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42414
+#EXTINF:-1,US: Starz (West backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41397
+#EXTINF:-1,US: Starz Cinema (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42416
+#EXTINF:-1,US: Starz Cinema (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42417
+#EXTINF:-1,US: Starz Comedy (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42418
+#EXTINF:-1,US: Starz Comedy (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42419
+#EXTINF:-1,US: Starz Kids & Family (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41388
+#EXTINF:-1,US: Starz Kids & Family (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/6852
+#EXTINF:-1,US: Starz Edge (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42420
+#EXTINF:-1,US: Starz Edge (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42421
+#EXTINF:-1,US: Starz Encore (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42422
+#EXTINF:-1,US: Starz Encore (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42423
+#EXTINF:-1,US: Starz Encore Action
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41393
+#EXTINF:-1,US: Starz Encore Action (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42424
+#EXTINF:-1,US: Starz Encore Action (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42425
+#EXTINF:-1,US: Starz Encore Black (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42426
+#EXTINF:-1,US: Starz Encore Black (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42427
+#EXTINF:-1,US: Starz Encore Classic
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41392
+#EXTINF:-1,US: Starz Encore Classic (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42428
+#EXTINF:-1,US: Starz Encore Classic (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42429
+#EXTINF:-1,US: Starz Encore Family
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41391
+#EXTINF:-1,US: Starz Encore Family (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42430
+#EXTINF:-1,US: Starz Encore Family (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42431
+#EXTINF:-1,US: Starz Encore Suspense
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41390
+#EXTINF:-1,US: Starz Encore Suspense (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42432
+#EXTINF:-1,US: Starz Encore Suspense (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42433
+#EXTINF:-1,US: Starz Encore Westerns
+http://nitro.ltd:25461/StevenD2020/StevFr2019/25047
+#EXTINF:-1,US: Starz Encore Westerns (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42434
+#EXTINF:-1,US: Starz Encore Westerns (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42435
+#EXTINF:-1,US: Starz in Black
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41389
+#EXTINF:-1,US: Starz in Black (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42436
+#EXTINF:-1,US: Starz in Black (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42437
+#EXTINF:-1,US: Showtime (east)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/8186
+#EXTINF:-1,US: Showtime (East backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19846
+#EXTINF:-1,US: Showtime (East backup 2)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3670
+#EXTINF:-1,US: Showtime (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41400
+#EXTINF:-1,US: Showtime (West backup)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41399
+#EXTINF:-1,US: Showtime 2 HD (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5883
+#EXTINF:-1,US: Showtime 2 (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42398
+#EXTINF:-1,US: Showtime 2 (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42399
+#EXTINF:-1,US: Showtime Beyond (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42400
+#EXTINF:-1,US: Showtime Beyond (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42401
+#EXTINF:-1,US: Showtime Extreme HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19666
+#EXTINF:-1,US: Showtime Family Zone (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42402
+#EXTINF:-1,US: Showtime Familyzone (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42403
+#EXTINF:-1,US: Showtime Next (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42404
+#EXTINF:-1,US: Showtime Next (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42405
+#EXTINF:-1,US: Showtime Showcase HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19664
+#EXTINF:-1,US: Showtime Women (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42406
+#EXTINF:-1,US: Showtime Women (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42407
+#EXTINF:-1,US: Cinemax HD (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19847
+#EXTINF:-1,US: CineMAX (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42383
+#EXTINF:-1,US: Cinemax Moremax HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19655
+#EXTINF:-1,US: ActionMAX (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42381
+#EXTINF:-1,US: ActionMAX (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42382
+#EXTINF:-1,US: MovieMAX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42387
+#EXTINF:-1,US: OuterMAX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42388
+#EXTINF:-1,US: ThrillerMAX (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42385
+#EXTINF:-1,US: ThrillerMAX (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42386
+#EXTINF:-1,US: 5 StarMAX
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42389
+#EXTINF:-1,US: Sony Movies HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/19725
+#EXTINF:-1,US: EPIX HD 1080
+http://nitro.ltd:25461/StevenD2020/StevFr2019/5874
+#EXTINF:-1,US: EPIX2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40915
+#EXTINF:-1,US: Epix Hits
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40890
+#EXTINF:-1,US: IndiePlex (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42408
+#EXTINF:-1,US: IndiePlex (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42409
+#EXTINF:-1,US: MoviePlex (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42410
+#EXTINF:-1,US: MoviePlex (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42411
+#EXTINF:-1,US: RetroPlex (East)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42412
+#EXTINF:-1,US: RetroPlex (West)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42413
+#EXTINF:-1,UK: Sky Atlantic
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42117
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42111
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42118
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22962
+#EXTINF:-1,UK: Sky Cinema Disney
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42113
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42112
+#EXTINF:-1,UK: Sky Cinema Greats
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42116
+#EXTINF:-1,UK: Sky Cinema Hits
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42115
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42114
+#EXTINF:-1,UK: Sky Cinema Premiere +1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42122
+#EXTINF:-1,UK: Sky Cinema SciFi & Horror
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42121
+#EXTINF:-1,UK: Sky Cinema Select
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42120
+#EXTINF:-1,UK: Sky Cinema Superheroes
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42119
+#EXTINF:-1,US: Redbox Comedy
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42454
+#EXTINF:-1,US: Redbox Rush
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42456
+#EXTINF:-1,US: Redbox Spotlight
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42457
+#EXTINF:-1,CA: A & E
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22227
+#EXTINF:-1,CA: ABC Spark HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22305
+#EXTINF:-1,CA: ABC WEST
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22144
+#EXTINF:-1,CA: ADDIK HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22225
+#EXTINF:-1,CA: AHC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22143
+#EXTINF:-1,CA: AMC
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22142
+#EXTINF:-1,CA: AMC HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17429
+#EXTINF:-1,CA: AMC FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22089
+#EXTINF:-1,CA: Animal Planet
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22141
+#EXTINF:-1,CA: APTN
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22140
+#EXTINF:-1,CA: ARTV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22139
+#EXTINF:-1,CA: ARTV (FR) HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22087
+#EXTINF:-1,CA: BBC CANADA
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22138
+#EXTINF:-1,CA: BBC Toronto
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22073
+#EXTINF:-1,CA: BBC World News HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22307
+#EXTINF:-1,CA: BNN  HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17423
+#EXTINF:-1,CA: BOOK TV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22137
+#EXTINF:-1,CA: CANAL D (Fench) HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22274
+#EXTINF:-1,CA: CANAL SAVOIR SD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22221
+#EXTINF:-1,CA: Cartoon NetWork HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22327
+#EXTINF:-1,CA: CASA (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22273
+#EXTINF:-1,CA: CBC ATLANTIC FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22084
+#EXTINF:-1,CA: CBC FRENCH HD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22219
+#EXTINF:-1,CA: CBC MONTREAL (French)
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22272
+#EXTINF:-1,CA: CBC NEWS TORONTO FHD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22216
+#EXTINF:-1,CA: CBC OTTAWA HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22215
+#EXTINF:-1,CA: CBC VANCOUVER HD*
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22214
+#EXTINF:-1,CA: CBS EAST HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22213
+#EXTINF:-1,CA: CHCH HD**
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22212
+#EXTINF:-1,CA: Cine POP ( French ) SD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22208
+#EXTINF:-1,CA: CITY TV MONTREAL
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22209
+#EXTINF:-1,CA: CNN HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/17430
+#EXTINF:-1,CA: COMEDY EAST HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22207
+#EXTINF:-1,CA: COMEDY GOLD HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/22083
